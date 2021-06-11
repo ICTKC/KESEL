@@ -1,4 +1,5 @@
 # KESEL
+Knowledge Enhanced Sequential Entity Linking
 
 ## Introduction
 > Knowledge Enhanced Sequential Entity Linking, a novel method which converts
